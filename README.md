@@ -3,6 +3,6 @@
 The following repository contains different coding ressources linked to the Web Mining course. 
 
 The repository contains exercises and ressources for the three major part of the course
-- collecting : scripts related to data collection on the web
+- data-collection : scripts related to data collection on the web
 - text-mining : scripts related to the process of transforming unstructured textual data
-- network-analysis : scripts related to the exploration and transformation of networks and graphs
+- link-analysis : scripts related to the exploration and transformation of networks and graphs
