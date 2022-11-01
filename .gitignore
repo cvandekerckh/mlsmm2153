@@ -134,3 +134,6 @@ dmypy.json
 # Images
 *.pdf
 
+# Ignore environment (environment used in JupyterLab)
+poetry.lock
+pyproject.toml
