@@ -137,3 +137,6 @@ dmypy.json
 # Ignore environment (environment used in JupyterLab)
 poetry.lock
 pyproject.toml
+
+# Ignore solutions
+solutions
