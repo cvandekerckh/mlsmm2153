@@ -139,4 +139,4 @@ poetry.lock
 pyproject.toml
 
 # Ignore solutions
-solutions
+exercises
