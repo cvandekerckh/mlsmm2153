@@ -1,0 +1,3 @@
+The file class.gml contains an undirected social network of a past Web Mining class.
+An edge represents the relation "has worked in the past with".
+
